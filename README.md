@@ -18,7 +18,7 @@
 
 ## 🌱 快速开始
 ```java
-// 示例代码位置（待补充）
+// 示例代码位置（可补充...）
 MiniApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
 UserService userService = (UserService) context.getBean("userService");
 userService.sayHello();
