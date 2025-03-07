@@ -27,6 +27,6 @@ userService.sayHello();
 ## 📚 学习资料
 - [Spring Framework官方文档]()
 - 《Spring源码深度解析》
-- 《Expert One-on-One J2EE Development without EJB》
+- 开源项目 https://github.com/fuzhengwei/small-spring
 
 > 注：本计划可根据实际开发进度动态调整，每周同步更新进展说明。欢迎提交PR共同完善！
