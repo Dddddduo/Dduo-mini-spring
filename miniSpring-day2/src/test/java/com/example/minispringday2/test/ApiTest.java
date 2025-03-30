@@ -5,7 +5,6 @@ import com.example.minispringday2.beans.factory.config.BeanDefinition;
 import com.example.minispringday2.beans.factory.support.DefaultListableBeanFactory;
 import org.junit.jupiter.api.Test;
 
-
 /**
  */
 public class ApiTest {

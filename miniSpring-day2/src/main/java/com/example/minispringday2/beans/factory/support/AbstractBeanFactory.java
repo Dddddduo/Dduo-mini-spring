@@ -6,8 +6,7 @@ import com.example.minispringday2.beans.factory.config.BeanDefinition;
 
 /**
  *
- *
- * BeanDefinition 注册表接口
+ * AbstractBeanFactory 注册表接口
  */
 public abstract class AbstractBeanFactory extends DefaultSingletonBeanRegistry implements BeanFactory {
 

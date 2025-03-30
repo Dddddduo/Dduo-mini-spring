@@ -1,13 +1,12 @@
 package com.example.minispringday2.beans.factory.support;
 
-
 import com.example.minispringday2.beans.factory.config.SingletonBeanRegistry;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 单例Bean注册表
+ * 默认的单例Bean注册表
  */
 public class DefaultSingletonBeanRegistry implements SingletonBeanRegistry {
 
