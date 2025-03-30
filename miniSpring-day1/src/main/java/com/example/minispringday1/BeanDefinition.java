@@ -6,6 +6,7 @@ public class BeanDefinition {
 
     private Object bean;
 
+    // 构造方法 用于初始化BeanDefinition对象
     public BeanDefinition(Object bean) {
         this.bean = bean;
     }
