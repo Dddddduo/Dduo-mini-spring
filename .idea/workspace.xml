@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cglibDynamicProxy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cglibDynamicProxy/src/main/java/org/example/AliSmsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cglibDynamicProxy/src/main/java/org/example/CglibProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cglibDynamicProxy/src/main/java/org/example/DebugMethodInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cglibDynamicProxy/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Dduo-mini-spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Dduo-mini-spring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cglibDynamicProxy/src/main/java/org/example/CglibProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/cglibDynamicProxy/src/main/java/org/example/CglibProxyFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +127,7 @@
       <updated>1743386446788</updated>
       <workItem from="1743386448957" duration="5585000" />
       <workItem from="1743395717946" duration="21000" />
-      <workItem from="1743395756716" duration="504000" />
+      <workItem from="1743395756716" duration="1981000" />
     </task>
     <servers />
   </component>
