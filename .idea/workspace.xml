@@ -29,6 +29,10 @@
     &quot;accountId&quot;: &quot;973d5ecf-67ce-432d-b319-0906172f9c1c&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -53,7 +57,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "coverage",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -108,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743345282625</updated>
       <workItem from="1743345284642" duration="1064000" />
-      <workItem from="1743346371023" duration="5702000" />
+      <workItem from="1743346371023" duration="9281000" />
     </task>
     <servers />
   </component>

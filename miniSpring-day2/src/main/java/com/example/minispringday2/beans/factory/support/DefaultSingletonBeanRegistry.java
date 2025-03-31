@@ -10,15 +10,18 @@ import java.util.Map;
  */
 public class DefaultSingletonBeanRegistry implements SingletonBeanRegistry {
 
+    // 用HashMap存放bean
     private final Map<String, Object> singletonObjects = new HashMap<>();
 
+    // 添加单体对象
+    protected void addSingleton(String beanName, Object singletonObject) {
+        singletonObjects.put(beanName, singletonObject);
+    }
+
+    // 重写接口中的获取单例对象的方法
     @Override
     public Object getSingleton(String beanName) {
         return singletonObjects.get(beanName);
-    }
-
-    protected void addSingleton(String beanName, Object singletonObject) {
-        singletonObjects.put(beanName, singletonObject);
     }
 
 }

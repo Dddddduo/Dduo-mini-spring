@@ -9,6 +9,7 @@ import java.util.Map;
 
 /**
  * 这是最终类
+ * 核心实现类
  */
 public class DefaultListableBeanFactory extends AbstractAutowireCapableBeanFactory implements BeanDefinitionRegistry {
 
