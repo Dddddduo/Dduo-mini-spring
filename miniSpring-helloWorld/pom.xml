@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.4.4</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>org.example</groupId>
+    <artifactId>miniSpring-helloWorld</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>miniSpring-helloWorld</name>
+    <description>miniSpring-helloWorld</description>
+    <url/>
+    <licenses>
+        <license/>
+    </licenses>
+    <developers>
+        <developer/>
+    </developers>
+    <scm>
+        <connection/>
+        <developerConnection/>
+        <tag/>
+        <url/>
+    </scm>
+    <properties>
+        <java.version>17</java.version>
+    </properties>
+
+    <dependencies>
+        <!-- Spring Context模块：提供核心容器功能，包含应用上下文、资源管理、事件发布等 -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <!-- 建议使用Spring官方版本管理（如Spring Boot BOM）或统一变量控制 -->
+            <!-- <version>${spring.version}</version>  -->
+        </dependency>
+
+        <!-- Spring Core模块：Spring框架的基础类库，包含核心工具类和IoC容器基础 -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <!-- 需要与spring-context保持版本一致 -->
+            <!-- <version>${spring.version}</version>  -->
+        </dependency>
+
+        <!-- Spring Beans模块：提供Bean工厂和IoC容器实现，负责Bean的创建与管理 -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-beans</artifactId>
+            <!-- 该模块依赖于spring-core -->
+            <!-- <version>${spring.version}</version>  -->
+        </dependency>
+
+        <!-- AspectJ Weaver：Spring AOP运行时依赖，负责切面织入和动态代理 -->
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <!-- 建议使用Spring官方推荐的兼容版本 -->
+            <!-- <version>${aspectjweaver.version}</version>  -->
+        </dependency>
+
+        <!-- Spring AOP核心库 -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aop</artifactId>
+<!--            <version>${spring.version}</version>-->
+        </dependency>
+
+        <!-- AspectJ织入器 -->
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+<!--            <version>1.9.7</version> &lt;!&ndash; 建议使用1.9+版本 &ndash;&gt;-->
+        </dependency>
+
+        <!-- Spring上下文支持 -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+<!--            <version>${spring.version}</version>-->
+        </dependency>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
