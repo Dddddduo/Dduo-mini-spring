@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/miniSpring-helloWorld/src/main/java/org/example/minispringhelloworld/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniSpring-helloWorld/src/main/java/org/example/minispringhelloworld/aspect/LogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniSpring-helloWorld/src/main/java/org/example/minispringhelloworld/dao/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniSpring-helloWorld/src/main/java/org/example/minispringhelloworld/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniSpring-helloWorld/src/main/java/org/example/minispringhelloworld/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniSpring-helloWorld/src/main/resources/aspects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniSpring-helloWorld/src/main/resources/daos.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniSpring-helloWorld/src/main/resources/services.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +47,7 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.org.example.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -85,7 +76,7 @@
       <recent name="F:\Projects\Java Project\Dduo-mini-spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.minispringhelloworld.App" />
       <module name="miniSpring-helloWorld" />
@@ -106,15 +97,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Main" />
-      <module name="Dduo-mini-spring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="mini-list-day1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -147,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Spring Boot.MiniSpringHelloWorldApplication" />
         <item itemvalue="Application.org.example.Main" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +162,9 @@
       <workItem from="1743426941020" duration="2447000" />
       <workItem from="1743523015740" duration="6945000" />
       <workItem from="1743699000444" duration="3439000" />
+      <workItem from="1743924652587" duration="5250000" />
+      <workItem from="1744006564482" duration="3053000" />
+      <workItem from="1744527446085" duration="2177000" />
     </task>
     <servers />
   </component>
