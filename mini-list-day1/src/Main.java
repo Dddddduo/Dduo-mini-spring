@@ -13,10 +13,11 @@ public class Main {
 
         while (iterator.hasNext()){
             if(iterator.next()==1){
-                iterator.remove();
+                list.remove(1);
             }
         }
         System.out.println(list);
+
 
     }
 }

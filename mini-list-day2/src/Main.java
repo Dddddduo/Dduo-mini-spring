@@ -62,6 +62,7 @@ class LinkedList {
 
     // 打印链表
     public void display() {
+
         Node current = head;
         while (current != null) {
             System.out.print(current.data  + " -> ");

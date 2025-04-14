@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="" />
+    <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mini-list-day1/src/JucHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-list-day1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/mini-list-day1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-list-day2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/mini-list-day2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mini-list-day1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mini-list-day1/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +38,9 @@
     &quot;accountId&quot;: &quot;973d5ecf-67ce-432d-b319-0906172f9c1c&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://E:/dev/java/jdk-17.0.9/lib/src.zip!/java.base/java/util/Iterator.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -43,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.JucHashMap.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
     "Application.Main.executor": "Run",
@@ -64,7 +74,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,7 +83,7 @@
       <recent name="F:\Projects\Java Project\Dduo-mini-spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.JucHashMap">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.minispringhelloworld.App" />
       <module name="miniSpring-helloWorld" />
@@ -83,6 +93,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JucHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JucHashMap" />
+      <module name="mini-list-day1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,19 +114,6 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="mini-list-day2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="cglibDynamicProxy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JucHashMap" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.App" />
         <item itemvalue="Spring Boot.MiniSpringHelloWorldApplication" />
-        <item itemvalue="Application.org.example.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +165,9 @@
       <workItem from="1743699000444" duration="3439000" />
       <workItem from="1743924652587" duration="5250000" />
       <workItem from="1744006564482" duration="3053000" />
-      <workItem from="1744527446085" duration="2808000" />
+      <workItem from="1744527446085" duration="3860000" />
+      <workItem from="1744629339155" duration="336000" />
+      <workItem from="1744630586846" duration="1494000" />
     </task>
     <servers />
   </component>
