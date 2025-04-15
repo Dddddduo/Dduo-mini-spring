@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mini-list-day1/src/JucHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini-list-day1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/mini-list-day1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini-list-day2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/mini-list-day2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mini-list-day1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mini-list-day1/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +163,7 @@
       <workItem from="1744006564482" duration="3053000" />
       <workItem from="1744527446085" duration="3860000" />
       <workItem from="1744629339155" duration="336000" />
-      <workItem from="1744630586846" duration="1494000" />
+      <workItem from="1744630586846" duration="3679000" />
     </task>
     <servers />
   </component>
