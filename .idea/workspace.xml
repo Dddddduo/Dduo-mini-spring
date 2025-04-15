@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="" />
+    <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/small-servelet/src/LogFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/small-servelet/src/LogFilter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +163,7 @@
       <workItem from="1744006564482" duration="3053000" />
       <workItem from="1744527446085" duration="3860000" />
       <workItem from="1744629339155" duration="336000" />
-      <workItem from="1744630586846" duration="7767000" />
+      <workItem from="1744630586846" duration="7828000" />
     </task>
     <servers />
   </component>
