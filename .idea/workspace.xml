@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/small-servelet/src/HelloFormGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-servelet/src/HelloFormPost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +165,7 @@
       <workItem from="1744006564482" duration="3053000" />
       <workItem from="1744527446085" duration="3860000" />
       <workItem from="1744629339155" duration="336000" />
-      <workItem from="1744630586846" duration="3679000" />
+      <workItem from="1744630586846" duration="5233000" />
     </task>
     <servers />
   </component>
