@@ -50,8 +50,9 @@ public final class LoginInterceptor implements HandlerInterceptor {
     @Override
     public void postHandle(HttpServletRequest request,
                            HttpServletResponse response,
-                           Object handler,
-                           ModelAndView modelAndView) throws Exception {
+                           Object handler
+//                           ModelAndView modelAndView
+    ) throws Exception {
         // 记录请求处理时间、修改响应头等 [10]()
         long startTime = (Long) request.getAttribute("requestStartTime");
         long executeTime = System.currentTimeMillis()  - startTime;
@@ -66,7 +67,7 @@ public final class LoginInterceptor implements HandlerInterceptor {
                                 Exception ex) throws Exception {
         // 资源清理、异常记录等 [7]()
         if (ex != null) {
-            log.error("Request  processing error: " + request.getRequestURI(),  ex);
+//            log.error("Request  processing error: " + request.getRequestURI(),  ex);
         }
     }
 

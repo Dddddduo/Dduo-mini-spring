@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/mini-list-day1/mini-list-day1.iml" filepath="$PROJECT_DIR$/mini-list-day1/mini-list-day1.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-list-day2/mini-list-day2.iml" filepath="$PROJECT_DIR$/mini-list-day2/mini-list-day2.iml" />
       <module fileurl="file://$PROJECT_DIR$/small-servelet/small-servelet.iml" filepath="$PROJECT_DIR$/small-servelet/small-servelet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springAop/springAop.iml" filepath="$PROJECT_DIR$/springAop/springAop.iml" />
     </modules>
   </component>
 </project>

@@ -10,12 +10,12 @@ public interface HandlerInterceptor {
                       HttpServletResponse response,
                       Object handler) throws Exception;
 
-
     // 后处理
     void postHandle(HttpServletRequest request,
                     HttpServletResponse response,
-                    Object handler,
-                    ModelAndView modelAndView) throws Exception;
+                    Object handler
+//                           ModelAndView modelAndView
+    ) throws Exception;
 
     // 完成处理
     void afterCompletion(HttpServletRequest request,
