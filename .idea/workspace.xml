@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="" />
+    <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mini-BloomFilter/mini-BloomFilter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-BloomFilter/src/MyBloomFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +85,7 @@
       <recent name="F:\Projects\Java Project\Dduo-mini-spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JucHashMap">
+  <component name="RunManager" selected="Application.MyBloomFilter">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.minispringhelloworld.App" />
       <module name="miniSpring-helloWorld" />
@@ -116,26 +120,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniSpringHelloWorldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="miniSpring-helloWorld" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.minispringhelloworld.MiniSpringHelloWorldApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.minispringhelloworld.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="MyBloomFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyBloomFilter" />
+      <module name="mini-BloomFilter" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyBloomFilter" />
         <item itemvalue="Application.JucHashMap" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Spring Boot.MiniSpringHelloWorldApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +165,7 @@
       <workItem from="1744629339155" duration="336000" />
       <workItem from="1744630586846" duration="16656000" />
       <workItem from="1745311523018" duration="3336000" />
+      <workItem from="1745400961835" duration="202000" />
     </task>
     <servers />
   </component>
