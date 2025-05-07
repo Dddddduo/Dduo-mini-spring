@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Dduo-mini-spring.iml" filepath="$PROJECT_DIR$/.idea/Dduo-mini-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCircularDependencySolution/SpringCircularDependencySolution.iml" filepath="$PROJECT_DIR$/SpringCircularDependencySolution/SpringCircularDependencySolution.iml" />
       <module fileurl="file://$PROJECT_DIR$/call-back/call-back.iml" filepath="$PROJECT_DIR$/call-back/call-back.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-BloomFilter/mini-BloomFilter.iml" filepath="$PROJECT_DIR$/mini-BloomFilter/mini-BloomFilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-list-day1/mini-list-day1.iml" filepath="$PROJECT_DIR$/mini-list-day1/mini-list-day1.iml" />
