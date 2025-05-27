@@ -9,6 +9,7 @@ class  Hungrybean{
     public static Hungrybean getInstance() {
         return INSTANCE;
     }
+
 }
 
 // 懒汉式 单例初始化
@@ -32,8 +33,8 @@ class ThreadSafeLazybean{
                 if (INSTANCE==null){
                     INSTANCE=new ThreadSafeLazybean();
                 }
-                return INSTANCE;
             }
         }
+        return INSTANCE;
     }
 }
