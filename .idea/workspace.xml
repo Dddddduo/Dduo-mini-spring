@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCircularDependencySolution/SpringCircularDependencySolution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springCircularDependencySolution/SpringCircularDependencySolution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCircularDependencySolution/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCircularDependencySolution/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bean-initialization/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/bean-initialization/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.MiniSpringHelloWorldApplication.executor": "Run",
-    "git-widget-placeholder": "Dduo-v2",
+    "git-widget-placeholder": "Dduo-v3",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "F:/Projects/Java Project/Dduo-mini-spring/miniSpring-helloWorld/src/main/java/org/example/minispringhelloworld",
     "last_opened_file_path": "F:/Projects/Java Project/Dduo-mini-spring/miniSpring-helloWorld",
@@ -163,11 +165,22 @@
       <workItem from="1745400961835" duration="2883000" />
       <workItem from="1746621661603" duration="521000" />
       <workItem from="1746625738778" duration="99000" />
-      <workItem from="1748263619081" duration="640000" />
+      <workItem from="1748263619081" duration="8984000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
