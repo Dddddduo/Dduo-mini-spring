@@ -11,7 +11,7 @@ import java.util.Map;
 public class JwtDemo {
 
     // 密钥，生产环境中应该妥善保管，不应该硬编码在代码中
-    private static final String SECRET_KEY = "yourSecretKey1234567890";
+    private static final String SECRET_KEY = "yourVeryLongAndSecureSecretKey1234567890abcdefghijklmnopqrstuvwxyz";
     // JWT的过期时间，这里设置为1小时
     private static final long EXPIRATION_TIME = 1000 * 60 * 60; // 1 hour
 

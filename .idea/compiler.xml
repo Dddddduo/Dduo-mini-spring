@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="miniSpring-helloWorld" />
         <module name="cglibDynamicProxy" />
+        <module name="jwtDemo" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jwtDemo" options="-parameters" />
       <module name="miniSpring-helloWorld" options="-parameters" />
     </option>
   </component>

@@ -5,15 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0531a0dc-9c5c-4c23-a258-cd9121ac5d93" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringCircularDependencySolution/SpringCircularDependencySolution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springCircularDependencySolution/SpringCircularDependencySolution.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringCircularDependencySolution/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCircularDependencySolution/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bean-initialization/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/bean-initialization/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/src/main/java/org/example/jwtdemo/JwtDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo/src/main/java/org/example/jwtdemo/JwtDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +69,7 @@
     "Application.App.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.JucHashMap.executor": "Run",
+    "Application.JwtDemo.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
     "Application.Main.executor": "Run",
@@ -63,7 +79,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.MiniSpringHelloWorldApplication.executor": "Run",
-    "git-widget-placeholder": "Dduo-v3",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "F:/Projects/Java Project/Dduo-mini-spring/miniSpring-helloWorld/src/main/java/org/example/minispringhelloworld",
     "last_opened_file_path": "F:/Projects/Java Project/Dduo-mini-spring/miniSpring-helloWorld",
@@ -88,7 +104,7 @@
       <recent name="F:\Projects\Java Project\Dduo-mini-spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example" />
       <module name="call-back" />
@@ -96,9 +112,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JucHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JucHashMap" />
-      <module name="mini-list-day1" />
+    <configuration name="JwtDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.jwtdemo.JwtDemo" />
+      <module name="jwtDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jwtdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,9 +132,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="mini-list-day1" />
+      <module name="lru_demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,13 +146,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JwtDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="jwtDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.jwtdemo.JwtDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JwtDemo" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MyBloomFilter" />
-        <item itemvalue="Application.JucHashMap" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -182,5 +211,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
